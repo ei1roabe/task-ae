@@ -1,1 +1,1 @@
-#概要 課題に使用 JavaScriptなど 09_28
+#概要 課題に使用 JavaScriptなど
